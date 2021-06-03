@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable and sober advice to the respective counties and corporations in whose good or bad choice of members to serve in this next ensuing Parliament (in this present juncture of time) consisteth the probable weale or woe of these three nations, and the safety or hazard of our dear-bought liberties and reformation begun / by several ministers of the Gospell, both in citty and countrey, lovers of reformation, and studious of the peace and prosperity of these nations.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09988</idno><idno type="EEBO-CITATION">69648907</idno>
+  <idno type="VID">185065</idno>
+  <idno type="EEBO-PROQUEST">2240877382</idno>
+  
+            <idno type="STC">Wing S2216A</idno>
+            <idno type="STC">ESTC R224239</idno>
+            <idno type="OCLC">69648907</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185065)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2885:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable and sober advice to the respective counties and corporations in whose good or bad choice of members to serve in this next ensuing Parliament (in this present juncture of time) consisteth the probable weale or woe of these three nations, and the safety or hazard of our dear-bought liberties and reformation begun / by several ministers of the Gospell, both in citty and countrey, lovers of reformation, and studious of the peace and prosperity of these nations.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. D. for John Clarke, at the lower end of Cheapside, entring into Mercers Chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="topical_term">Reformation --  England --  Early works to 1800 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1660 --  Sources.</term>
+               <term type="genre_form">Broadsides --  England dy 17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="voting_advice">
+            <pb facs="tcp:185065:1"/>
+            <head>SEASONABLE And SOBER ADVICE TO THE Respective COUNTIES and CORPORATIONS in whose Good or Bad Choice of Members to serve in this next ensuing PARLAMENT (In this present juncture of Time) Consisteth the probable WEALE or WOE of these Three Nations, and the SAFETY or HAZARD of our Dear-bought LIBERTIES and Reformation begun.</head>
+            <byline>By severall <hi>Ministers</hi> of the <hi>Gospell,</hi> both in Citty and Countrey, lovers of Reformation, and studious of the Peace and prosperity of these Nations.</byline>
+            <q>
+               <l>Pray for the Peace of Ierusalem, they shall prosper that Love Thee.</l>
+               <l>The Lord blesse thee O Habitation of Iustice, and Mountain of Holinesse.</l>
+            </q>
+            <p>
+               <seg rend="decorInit">I</seg>T cannot lie unobserved to any <hi>pious</hi> or <hi>prudent</hi> Heart with what an out-stretched hand (by <hi>signes</hi> &amp; <hi>wonders,</hi> the Lord hath brought his people of these Nations, out of that darknesse in their Minds, and <hi>bondage</hi> in their Con<g ref="char:EOLhyphen"/>sciences that hath been only felt in former times, and whereinto we cannot but fear our fatall return, should we make us <hi>Captaines</hi> to lead us back to Egypt.</p>
+            <p>Neither is it lesse obvious how oft we have seemed near a Canaan of Rest and <hi>Settlement</hi> for our selves and Gods Ark in the midst of us, and yet as often have the <hi>passions</hi> and private <hi>interests</hi> of <hi>some,</hi> and the sins of us <hi>All,</hi> brought us back again into the <hi>Wildernesse. Parlaments</hi> have been in travail but have not brought forth any salvation; God hath looked for Grapes from us, and behold wild Grapes; And we have looked for healing, but behold a Cry!</p>
+            <p>How beit although we have been <hi>emptyed</hi> from Vessels to Vessels, we are not as yet <hi>spilt</hi> upon the ground; This is the Lords doing and it is deservable marvellous in our eye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. The power, the plenty, the purity of the Gospel of Salvation which we yet enjoy, is more then most others <hi>have;</hi> and our Peace (in this juncture of time) more then what most of our selves could have</p>
+            <p>The Civil Government is peacefully devolved into that <hi>Hand</hi> (wherewith the <hi>Heart</hi> of these Nations, by the many affectionate Addresses, both of Cities, Counties and Townes-Corporate, appeares to be combined) which seemeth every day more strength<g ref="char:EOLhyphen"/>ned for the holding of that <hi>interest</hi> (which must be the Pillar of our Civil <hi>Weal</hi>) <hi>the interest of our Lord Iesus Christ.</hi>
+            </p>
+            <p>And now that a generall Addresse is to be publickly made throughout these three Nations to the Throne of grace for a blessing upon the appointed <hi>Parlament;</hi> may it be as much our CARE as it is our CONCERNMENT (as near as we can) to choose whom the Lord hath <hi>chosen,</hi> and to send thither by our <hi>Votes</hi> such onely as we can most comfortably follow with our <hi>Hopes</hi> and <hi>Prayers.</hi> That is to say, Men of Wisedome and Knowledge in the Great Things both of <hi>true Religion</hi> and <hi>righteous Government,</hi> under<g ref="char:EOLhyphen"/>standing the <hi>Times,</hi> and what <hi>Israell</hi> ought to doe.</p>
+            <p>Men (like Moses) of a <hi>zealous,</hi> yet a peaceable and <hi>healing</hi> spirit, (willing to stand in our Breaches, and to endeavour the cemen<g ref="char:EOLhyphen"/>ting our differences) that our wound (if the Lord please) may be bound up and bleed no longer.</p>
+            <p>Men <hi>Free</hi> and willing to reform all grievances in the Administration of Law, till Righteousness be as a River amongst us, the streams whereof may make glad the Citie of our God.</p>
+            <p>May our Elections have respect to these few qualifications, and what ever else may truly <hi>commend</hi> men before the Lord, may it <hi>re<g ref="char:EOLhyphen"/>commend</hi> them to our choice for that high trust wherein the <hi>great</hi> Name of our God, and what ever is deare to all that love and feare him, is so much interested. And may it be laid seriously to heart <hi>what a dreadfull Account wee shall give to God,</hi> (THOSE especi<g ref="char:EOLhyphen"/>ally who not onely as being members of COUNTIES have power in choosing <hi>Knights</hi> in common with others, BUT also as being Members of CORPORATIONS of choosing for themselves <hi>Burgesses</hi> who are not the least considerable number in <hi>Parlament</hi>) If through either a supine <hi>Carelessness</hi> or other <hi>Carnall</hi> respects, we should betray into <hi>unfaithfull hands</hi> those great <hi>Talents</hi> wherewith the Lord hath graciously entrusted <hi>us,</hi> not onely for our selves, but for <hi>succeeding generations.</hi>
+            </p>
+            <p>'Tis easily foreseen how slender an entertainment such a short <hi>Paper-messenger</hi> may find with many, but the <hi>Case</hi> it selfe speaketh though we should hold our peace. And assuredly should we herein prove unfaithfull, Salvation would come some other way (for if we <hi>slumber,</hi> yet God will <hi>watch</hi> over his own Cause) but we and our Families shall be troden under foot as unsavoury salt.</p>
+            <p>And who knowes but he who chooseth the <hi>weake</hi> things of this world, and the things that are <hi>despised,</hi> may direct so plain a word to the awakening and provoking of some, to the carefull discharge of so great a Duty, that the Children that shall be borne, may call us blessed.</p>
+            <epigraph>
+               <bibl>
+                  <hi>PSAL. 137.5.6.</hi>
+               </bibl>
+               <q>If I forget thee Oh Ierusalem, then let my right hand forget her cunning. If I doe not remember thee, let my tongue cleave to the roof of my mouth, if I preferre not Ierusalem above my chiefe Ioy.</q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. D.</hi> for <hi>John Clarke,</hi> at the lower end of Cheapside, entring into <hi>Mercers Chappel,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
